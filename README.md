@@ -3,7 +3,7 @@
 Postfixadmin User Registration is a simple php script that allows users to create their own email accounts in postfixadmin.
 
 <p align="center">
-<img src="https://github.com/jnabasny/Very-Secure-Database/blob/master/head.png">
+<img src="https://github.com/jnabasny/postfixadmin-user-registration/blob/master/screenshot.png">
 </p>
 
 ## Configuration and Installation
