@@ -10,7 +10,7 @@ Postfixadmin User Registration is a simple php script that allows users to creat
 
 Configuration is done in three simple steps:
 
-1. Edit the top of _register.php_ so that ```$domain = "{ENTER DOMAIN HERE}";``` includes your email domain. For example: ```$domain = "@example.com";```
+1. Edit the top of _register.php_ so that ```$domain = "{ENTER DOMAIN HERE}";``` includes your domain that you receive email at. For example: ```$domain = "example.com";```
 
 2. Place _register.php_ in /usr/share/postfixadmin/public/users/. Make sure it is owned by root.
 
